@@ -4,7 +4,7 @@ Indie SaaS builder · 25-year engineer · Tokyo
 
 ## 🚀 Products
 
-### [OriginBrief](https://www.originbrief.app)
+### [OriginBrief](https://www.originbrief.app/?utm_source=github&utm_medium=repo&utm_campaign=about)
 AI-powered continuous research SaaS. Register themes, get weekly reports from first-party sources.
 **Stack:** Next.js 15 · Supabase · Anthropic Claude · Stripe
 
