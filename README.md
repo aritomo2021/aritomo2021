@@ -8,15 +8,15 @@ Indie SaaS builder · 25-year engineer · Tokyo
 AI-powered continuous research SaaS. Register themes, get weekly reports from first-party sources.
 **Stack:** Next.js 15 · Supabase · Anthropic Claude · Stripe
 
-### [StandupFlow](https://standupflow.app)
+### StandupFlow (Coming Soon)
 Async standups in Slack with AI-generated weekly and monthly reports.
 **Stack:** Next.js 15 · Supabase · Slack Bolt SDK · Claude
 
-### [QuietLog](https://quietlog.app)
+### QuietLog (Coming Soon)
 Evidence-grade noise and neighbor dispute logger. PWA with AI complaint letter generation.
 **Stack:** Next.js 15 · Supabase · IndexedDB · Stripe
 
-### [DocDecay](https://docdecay.app)
+### DocDecay (Coming Soon)
 Auto-detect stale docs across Notion, Google Drive, and Confluence. Trigger update workflows.
 **Stack:** Next.js 15 · Supabase · BullMQ · Claude
 
